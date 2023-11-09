@@ -1,6 +1,6 @@
 # libft
 
-Go to [french version]
+Go to [french version](#a-propos)
 
 ## About libft
 Libft is the first project at 42, where students are tasked with recoding a part of the C standard library (libc) in C language and some other utility functions which students are encouraged to use throughout their 42 curriculum.
